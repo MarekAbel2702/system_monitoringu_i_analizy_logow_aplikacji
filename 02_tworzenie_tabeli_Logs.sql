@@ -1,0 +1,6 @@
+CREATE TABLE Logs (
+	id INT IDENTITY(1, 1) PRIMARY KEY,
+	log_time DATETIME2,
+	level VARCHAR(10),
+	message TEXT
+);
