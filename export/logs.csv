@@ -1,0 +1,6 @@
+id,log_time,level,message
+1,2025-03-30 08:15:00.0000000,INFO,Application started
+2,2025-03-30 08:16:22.0000000,WARNING,High memory usage detected
+3,2025-03-30 08:17:50.0000000,ERROR,Unhandled exception occurred
+4,2025-03-30 08:18:10.0000000,INFO,Scheduled task completed
+5,2025-03-30 08:19:45.0000000,ERROR,Connection timeout
